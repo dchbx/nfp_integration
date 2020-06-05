@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    nfp_integration (0.0.9)
+    nfp_integration (0.0.10)
       nokogiri (~> 1.6)
 
 GEM
@@ -130,7 +130,7 @@ GEM
       thread_safe (~> 0.1)
     websocket-driver (0.6.5)
       websocket-extensions (>= 0.1.0)
-    websocket-extensions (0.1.2)
+    websocket-extensions (0.1.5)
 
 PLATFORMS
   ruby
