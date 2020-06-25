@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    nfp_integration (0.0.9)
+    nfp_integration (0.0.10)
       nokogiri (~> 1.6)
 
 GEM
@@ -76,7 +76,7 @@ GEM
     pry-remote (0.1.8)
       pry (~> 0.9)
       slop (~> 3.0)
-    rack (2.0.3)
+    rack (2.2.3)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (5.1.2)
